@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/celo-react-boilerplate/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/celo-react-boilerplate/static/js/main.d4883f6b.chunk.js",
+    "main.js.map": "/celo-react-boilerplate/static/js/main.d4883f6b.chunk.js.map",
+    "runtime-main.js": "/celo-react-boilerplate/static/js/runtime-main.7f1bc071.js",
+    "runtime-main.js.map": "/celo-react-boilerplate/static/js/runtime-main.7f1bc071.js.map",
+    "static/css/2.d5c8c698.chunk.css": "/celo-react-boilerplate/static/css/2.d5c8c698.chunk.css",
+    "static/js/2.d925c5cd.chunk.js": "/celo-react-boilerplate/static/js/2.d925c5cd.chunk.js",
+    "static/js/2.d925c5cd.chunk.js.map": "/celo-react-boilerplate/static/js/2.d925c5cd.chunk.js.map",
+    "static/js/3.fe78941a.chunk.js": "/celo-react-boilerplate/static/js/3.fe78941a.chunk.js",
+    "static/js/3.fe78941a.chunk.js.map": "/celo-react-boilerplate/static/js/3.fe78941a.chunk.js.map",
+    "index.html": "/celo-react-boilerplate/index.html",
+    "static/css/2.d5c8c698.chunk.css.map": "/celo-react-boilerplate/static/css/2.d5c8c698.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/celo-react-boilerplate/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.d925c5cd.chunk.js.LICENSE.txt": "/celo-react-boilerplate/static/js/2.d925c5cd.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/celo-react-boilerplate/static/media/bootstrap-icons.c1d7432e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f1bc071.js",
+    "static/css/2.d5c8c698.chunk.css",
+    "static/js/2.d925c5cd.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.d4883f6b.chunk.js"
+  ]
+}
